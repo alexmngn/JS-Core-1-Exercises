@@ -5,6 +5,6 @@ Create a function called shortcut to remove all the lowercase vowels in a given 
 For example:
 
 shortcut("goodbye")  // --> "gdby"
-shortcut("nodegirls")  // --> "nd grls"
+shortcut("nodegirls")  // --> "ndgrls"
 shortcut('how are you today?') // --> "hw r y tdy?"
 */
